@@ -5,4 +5,6 @@ mkdir 晨雾扒站服务
 touch 晨雾扒站服务/index.html
 html=`curl -s $ws`
 echo $html > 晨雾扒站服务/index.html
-
+echo "扒站成功,保存在 ~/晨雾扒站服务/index.html"
+echo "你可以输入`cat 晨雾扒站服务/index.html`来查看这个文件"
+echo "晨雾官网:https://chenwumm.github.io/ 欢迎访问!"
