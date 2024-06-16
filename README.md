@@ -7,3 +7,5 @@
 虽然但是,我不太会用markdown  
 
 *还请多多follow一下,谢谢!*
+
+跳转到[首页](https://chenwumm.github.io/)
